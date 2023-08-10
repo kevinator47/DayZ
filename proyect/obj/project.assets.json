@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/DayZ.csproj",
+      "projectUniqueName": "/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/dev/DayZ.csproj",
       "projectName": "DayZ",
-      "projectPath": "/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/DayZ.csproj",
+      "projectPath": "/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/dev/DayZ.csproj",
       "packagesPath": "/home/uhc121/.nuget/packages/",
-      "outputPath": "/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/obj/",
+      "outputPath": "/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/dev/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/uhc121/.nuget/NuGet/NuGet.Config"

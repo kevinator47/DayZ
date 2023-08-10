@@ -1,34 +1,21 @@
-﻿class Criature
+﻿namespace DayZ ;
+
+public class Criature
 {
     /* Esta clase representa las criaturas del juego, las cuales tendran un nombre(zombi , bandido , etc), unas estadisticas
     (Fuerza, Destreza, Intuicion , Sabiduria) y comportamientos como atacar(usando el sistema PBA-PBD) y recibir daño.
     */
 
     // Properties
-    string name ;
+    public string Name {get ; set ;}
 
     // stats
-    int F ;
-    int D ;
-    int I ;
-    int S ;
+    public int F {get ; set ;} 
+    public int D {get ; set ;} 
+    public int I {get ; set ;} 
+    public int S {get ; set ;} 
 
     // Methods
-
-
-    // constructor(npc)
-    public Criature(string nm)
-    {
-        // Este metodo se sobreescribira luego por el constructor de cada criatura particular(zombi, bandido , etc)
-        this.name = nm ;
-
-        // Cada criatura tendra sus estadisticas pero como es para la demo las ponemos bajas
-        this.F = 4 ;
-        this.D = 4 ;
-        this.I = 3 ;
-        this.S = 3 ;
-    }
-
     public void Attack(Criature obj)
     {
         /* 
