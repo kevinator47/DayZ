@@ -15,7 +15,39 @@ public class Criature
     public int I {get ; set ;} 
     public int S {get ; set ;} 
 
+   
+    // constructor
+    public Criature(int[] stats)
+    {
+        // recibe las estadisticas de cada criatura que se cree(cada criatura tendra sus stats personalizadas en su propia clase)
+        this.F = stats[0] ;
+        this.D = stats[1] ;
+        this.I = stats[2] ;
+        this.S = stats[3] ;
+        
+    }
+   
+   
     // Methods
+    
+    public void ShowStatus()
+    {
+        Console.WriteLine(this.Name) ;
+        Console.WriteLine("Stats : " + this.Stats()) ;
+    }
+
+    private string Stats()
+    {
+        string output = "" ;
+        int[] st = new int[4]{this.F , this.D , this.I , this.S } ;
+
+        foreach (int num in st)
+        {
+            output += Tools.GetLetter(num) ;
+        }
+        return output ;
+    }
+    
     public void Attack(Criature obj)
     {
         /* 

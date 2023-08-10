@@ -9,8 +9,6 @@ public class Tools
             char letter = (char)('A' + (num - 10));
             return letter.ToString() ;
         }
-        return num.ToString();
-            
-        
+        return num.ToString();    
     }
 }

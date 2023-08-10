@@ -7,10 +7,11 @@ class Program
 {
     static void Main()
     {
-        NewGame();    
+        Player Pj = NewGame();
+        Hermito M = new Hermito();    
     }
 
-    public static void NewGame()
+    public static Player NewGame()
     {
         Console.Clear();
         TextBox Tbx = new TextBox();
@@ -27,6 +28,7 @@ class Program
         Console.ReadLine();
         Console.Clear();
         
-        Player Pj = new Player();
+        Random randint = new Random();   // para determinar las estadisticas
+        return new Player(new int[] {randint.Next(2,12) , randint.Next(2,12) , randint.Next(2,12) , randint.Next(2,12)});
     }
 }
