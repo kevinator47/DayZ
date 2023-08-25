@@ -1,0 +1,15 @@
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/bin/Debug/net7.0/DayZ
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/bin/Debug/net7.0/DayZ.deps.json
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/bin/Debug/net7.0/DayZ.runtimeconfig.json
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/bin/Debug/net7.0/DayZ.dll
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/bin/Debug/net7.0/DayZ.pdb
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/obj/Debug/net7.0/DayZ.csproj.AssemblyReference.cache
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/obj/Debug/net7.0/DayZ.GeneratedMSBuildEditorConfig.editorconfig
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/obj/Debug/net7.0/DayZ.AssemblyInfoInputs.cache
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/obj/Debug/net7.0/DayZ.AssemblyInfo.cs
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/obj/Debug/net7.0/DayZ.csproj.CoreCompileInputs.cache
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/obj/Debug/net7.0/DayZ.dll
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/obj/Debug/net7.0/refint/DayZ.dll
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/obj/Debug/net7.0/DayZ.pdb
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/obj/Debug/net7.0/DayZ.genruntimeconfig.cache
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/proyect/obj/Debug/net7.0/ref/DayZ.dll

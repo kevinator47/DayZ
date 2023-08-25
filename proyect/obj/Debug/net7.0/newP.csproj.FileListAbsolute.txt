@@ -1,0 +1,15 @@
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/obj/Debug/net7.0/newP.csproj.AssemblyReference.cache
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/obj/Debug/net7.0/newP.GeneratedMSBuildEditorConfig.editorconfig
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/obj/Debug/net7.0/newP.AssemblyInfoInputs.cache
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/obj/Debug/net7.0/newP.AssemblyInfo.cs
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/obj/Debug/net7.0/newP.csproj.CoreCompileInputs.cache
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/bin/Debug/net7.0/newP
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/bin/Debug/net7.0/newP.deps.json
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/bin/Debug/net7.0/newP.runtimeconfig.json
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/bin/Debug/net7.0/newP.dll
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/bin/Debug/net7.0/newP.pdb
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/obj/Debug/net7.0/newP.dll
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/obj/Debug/net7.0/refint/newP.dll
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/obj/Debug/net7.0/newP.pdb
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/obj/Debug/net7.0/newP.genruntimeconfig.cache
+/home/uhc121/Documents/Primero/Programacion/MyProyects/DayZ/newP/obj/Debug/net7.0/ref/newP.dll
